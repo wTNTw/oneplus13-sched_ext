@@ -1,0 +1,3 @@
+# sched_ext
+源码来着https://github.com/schqiushui/android_kernel_common_oneplus_sm8750/commit/5d2cc9706a35f5e4b5dbbd5d247487225a46e02c
+https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_sm8750/tree/oneplus/sm8750_v_15.0.0_oneplus_13/vendor/oplus/kernel/cpu/sched_ext
